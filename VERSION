@@ -1,0 +1,9 @@
+commit dd5e4f8e2cb86387d2c76eab97c2b6cf8496bcdb
+Author: Emmett Lalish <elalish@google.com>
+Date:   Tue Nov 17 17:00:02 2020 -0800
+
+    cloning textures (#1711)
+    
+    * cloning textures
+    
+    * attempt to deflake fidelity test
